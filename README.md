@@ -10,20 +10,20 @@
  This Project is purely based on SQL Server , employing its innate capabilities : **String Functions , Window Functions , Joins , CTE**
   
  
- **Table Of Contents**
+ ## Table Of Contents
  - [Dataset Overview](#dataset-overview "Dataset Overview")
  - [Tools Used](#tools-used "Tools USed")
  - [Data Cleaning Steps Usecase](#data-cleaning-usecase "Data Cleaning Steps Usecase")
 
 
-## Dataset Overview
+**Dataset Overview**
 - Data Source: https://www.kaggle.com/tmthyjames/nashville-housing-data
 - Rows: 56373 Columns: 19
 
-## Tools Used
+**Tools Used**
 - RDBMS: Microsoft SQL Server Management Studio
 
-## [Data Cleaning Usecase](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)
+**[Data Cleaning Usecase](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)**
 1. Standardize Date Format
 2. Populate Missing Address Fields
 3. Breaking Address into Induvidual Columns( Street,City,State) (String Functions)
