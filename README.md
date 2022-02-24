@@ -23,7 +23,7 @@
 ## Tools Used
 - RDBMS: Microsoft SQL Server Management Studio
 
-## Data Cleaning Steps Adhered
+## [Data Cleaning Steps Adhered](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)
 1. Standardize Date Format
 2. Populate Missing Address Fields
 3. Breaking Address into Induvidual Columns( Street,City,State) (String Functions)
