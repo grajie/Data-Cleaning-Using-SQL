@@ -23,11 +23,11 @@
 **Tools Used**
 - RDBMS: Microsoft SQL Server Management Studio
 
-**[Data Cleaning Usecase](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)**
+**Data Cleaning Usecase**  [Code-Click Here](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)
 1. Standardize Date Format
-2. Populate Missing Address Fields
-3. Breaking Address into Induvidual Columns( Street,City,State) (String Functions)
-4. Formatting Address ( PARSENAME() )
+2. Populate Missing Property Address Fields
+3. Breaking Owner Address into Induvidual Columns( Street,City,State) (String Functions)
+4. Formatting Address using PARSENAME()
 5. Structural Error : Changing 'Y' to 'Yes' , 'N' to 'No'
 6. Removing Duplicates (using CTE , Rank())
 
