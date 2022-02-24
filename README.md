@@ -13,7 +13,7 @@
  **Table Of Contents**
  - [Dataset Overview](#dataset-overview "Dataset Overview")
  - [Tools Used](#tools-used "Tools USed")
- - [Data Cleaning Steps Adhered](#data-cleaning-steps-adhered "Data Cleaning Steps Adhered")
+ - [Data Cleaning Steps Usecase](#data-cleaning-usecase "Data Cleaning Steps Usecase")
 
 
 ## Dataset Overview
@@ -23,7 +23,7 @@
 ## Tools Used
 - RDBMS: Microsoft SQL Server Management Studio
 
-## [Data Cleaning Steps Adhered](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)
+## [Data Cleaning Usecase](https://github.com/grajie/Data-Cleaning--Using-SQL/blob/main/HousingData_DataCleaning.sql)
 1. Standardize Date Format
 2. Populate Missing Address Fields
 3. Breaking Address into Induvidual Columns( Street,City,State) (String Functions)
